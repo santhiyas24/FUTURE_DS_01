@@ -1,7 +1,12 @@
 # Superstore Sales Performance Dashboard
 
 ## Project Overview
-This project analyzes Superstore sales data using Power BI to identify sales trends, category performance, regional sales, and top products.
+This project analyzes Superstore sales data using Power BI to identify sales trends, category performance, regional sales, and top products. 
+
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard_Screenshot.png)
+
 
 ## Tools Used
 - Power BI
