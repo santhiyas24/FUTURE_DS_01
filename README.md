@@ -5,7 +5,7 @@ This project analyzes Superstore sales data using Power BI to identify sales tre
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](Dashboard Screenshot.png)
 
 
 ## Tools Used
